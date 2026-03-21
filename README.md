@@ -38,14 +38,14 @@ Netflix is one of the world's leading streaming platforms with thousands of titl
 ```
 Netflix_Content_Analysis/
 │
+├── Netflix Content Analysis.ipynb
+├── README.md
 ├── netflix_titles.csv
 ├── plot1_movies_vs_tvshows.png
 ├── plot2_top5_countries.png
 ├── plot3_yearly_additions.png
 ├── plot4_release_year_vs_duration.png
-├── plot5_correlation_heatmap.png
-├── Netflix_Content_Analysis.ipynb
-└── README.md
+└── plot5_correlation_heatmap.png
 ```
 
 ---
